@@ -7,8 +7,7 @@
 - node.js
 - Docker
 - Docker-compose
-- Linus (please)
-
+- Linux ~~ easy way to run ~~
 
 ## RUNNING
 #### EASY
