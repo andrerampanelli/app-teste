@@ -10,6 +10,10 @@
 - Linux ~~ easy way to run ~~
 
 ## RUNNING
+```
+git clone --recursive [URL to Git repo]
+git submodule update --init --recursive
+```
 #### EASY
 ###### AT FOLDER
  - To run 
