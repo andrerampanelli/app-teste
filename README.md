@@ -16,9 +16,9 @@
 git clone --recursive [URL to Git repo]
 git submodule update --init --recursive
 ```
-api runs at localhost:8000
-phpmyadmin runs at localhost:9000
-app runs at localhost:8080
+##### api runs at localhost:8000
+##### phpmyadmin runs at localhost:9000
+##### app runs at localhost:8080
 
 to access phpmyadmin
  - root
