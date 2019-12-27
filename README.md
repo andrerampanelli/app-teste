@@ -20,10 +20,11 @@ git submodule update --init --recursive
 ##### phpmyadmin runs at localhost:9000
 ##### app runs at localhost:8080
 
-to access phpmyadmin
+##### to access phpmyadmin
  - root
  - 123456
-to access app
+ 
+##### to access app
  - admin@admin.com
  - admin
 
