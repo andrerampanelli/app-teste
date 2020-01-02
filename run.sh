@@ -3,5 +3,5 @@
 cd projeto-php-api
 make setup
 cd ..
-cd vue-app
+cd vue-app-php-api
 yarn serve
