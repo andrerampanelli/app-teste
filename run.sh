@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd projeto_php_api
+cd projeto-php-api
 make setup
 cd ..
 cd vue-app
