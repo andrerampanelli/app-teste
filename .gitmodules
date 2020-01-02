@@ -1,0 +1,6 @@
+[submodule "projeto-php-api"]
+	path = projeto-php-api
+	url = https://github.com/andrerampanelli/projeto-php-api.git
+[submodule "vue-app-php-api"]
+	path = vue-app-php-api
+	url = https://github.com/andrerampanelli/vue-app-php-api.git
